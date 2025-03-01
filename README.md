@@ -1,6 +1,6 @@
 # Curso de Inteligencia Artificial
 
-Este repositorio es la plataforma central para el **Curso de Inteligencia Artificial** impartido en [nombre de la institución]. Aquí encontrarás todos los recursos del curso: cronograma, materiales de estudio, ejemplos de código, ejercicios, proyectos y documentación adicional.
+Este repositorio es un apoyo a el **Curso de Inteligencia Artificial** . Aquí encontrarás todos los recursos del curso: cronograma, materiales de estudio, ejemplos de código, ejercicios, proyectos y documentación adicional.
 
 ## Descripción
 
@@ -9,16 +9,16 @@ El curso tiene como objetivo brindar una comprensión integral de la Inteligenci
 ### Contenido del Repositorio
 
 - **Cronograma del Curso:**  
-  Un cronograma accesible y actualizado, organizado en bloques temáticos, que sirve de guía para cada sesión. Se visualiza mediante GitHub Pages para facilitar su consulta.
+  Un cronograma accesible y actualizado, organizado en bloques temáticos, que sirve de guía para cada clase. Se visualiza mediante GitHub Pages para facilitar su consulta.
 
 - **Materiales y Recursos:**  
-  Notas de clase, ejemplos de código, tutoriales y lecturas recomendadas que complementan las exposiciones teóricas.
+  Notas de clase, ejemplos de código, tutoriales y lecturas recomendadas que complementan los teóricos.
 
 - **Proyectos y Ejercicios:**  
-  Actividades prácticas y colaborativas que se desarrollarán a lo largo del curso, incluyendo mini informes y un proyecto final integrador.
+  Actividades prácticas y colaborativas que se desarrollarán a lo largo del curso, incluyendo informes y un proyecto final integrador.
 
 - **Evaluaciones:**  
-  El curso utiliza evaluaciones formativas basadas en ejercicios, mini informes y un proyecto final que integran las competencias desarrolladas.
+  El curso utiliza evaluaciones formativas basadas en ejercicios, informes y un proyecto final que integran las competencias desarrolladas.
 
 ## Cómo Utilizar Este Repositorio
 
