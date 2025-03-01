@@ -1,24 +1,24 @@
 # Curso de Inteligencia Artificial
 
-Este repositorio es un apoyo a el **Curso de Inteligencia Artificial** . Aquí encontrarás todos los recursos del curso: cronograma, materiales de estudio, ejemplos de código, ejercicios, proyectos y documentación adicional.
+Bienvenidos al repositorio del **Curso de Inteligencia Artificial**. Este repositorio centraliza todos los recursos, materiales, ejercicios, proyectos y documentación que se utilizarán durante el curso.
+
+## Índice
+
+- [Descripción](#descripción)
+- [Cómo Utilizar Este Repositorio](#cómo-utilizar-este-repositorio)
+- [Cronograma del Curso](#cronograma-del-curso)
+- [Materiales de Clase](#materiales-de-clase)
+- [Ejercicios](#ejercicios)
+- [Proyectos](#proyectos)
+- [Documentación](#documentación)
+- [Cómo Colaborar](#cómo-colaborar)
+- [Requisitos y Herramientas](#requisitos-y-herramientas)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
 ## Descripción
 
 El curso tiene como objetivo brindar una comprensión integral de la Inteligencia Artificial, combinando fundamentos teóricos con aplicaciones prácticas. Se fomenta el aprendizaje autónomo y colaborativo, utilizando herramientas modernas de desarrollo y control de versiones a través de GitHub.
-
-### Contenido del Repositorio
-
-- **Cronograma del Curso:**  
-  Un cronograma accesible y actualizado, organizado en bloques temáticos, que sirve de guía para cada clase. Se visualiza mediante GitHub Pages para facilitar su consulta.
-
-- **Materiales y Recursos:**  
-  Notas de clase, ejemplos de código, tutoriales y lecturas recomendadas que complementan los teóricos.
-
-- **Proyectos y Ejercicios:**  
-  Actividades prácticas y colaborativas que se desarrollarán a lo largo del curso, incluyendo informes y un proyecto final integrador.
-
-- **Evaluaciones:**  
-  El curso utiliza evaluaciones formativas basadas en ejercicios, informes y un proyecto final que integran las competencias desarrolladas.
 
 ## Cómo Utilizar Este Repositorio
 
@@ -26,3 +26,41 @@ El curso tiene como objetivo brindar una comprensión integral de la Inteligenci
 
    ```bash
    git clone https://github.com/wchocho/IA2025.git
+
+## Cronograma del Curso
+El cronograma está disponible en la carpeta cronograma y se actualiza según el progreso del curso. Está organizado en cuatro bloques temáticos que abarcan desde la introducción hasta el proyecto final.
+
+## Materiales de Clase
+Cada clase tiene su propio directorio en la carpeta materiales. Aquí encontrarás notas de clase, ejemplos de código y recursos adicionales que complementan las exposiciones teóricas.
+
+## Ejercicios
+La carpeta ejercicios contiene enunciados y soluciones de ejercicios prácticos que te ayudarán a afianzar los conocimientos que vayas construyendo a lo largo del curso.
+
+## Proyecto
+El curso contiene un proyecto final integrador. Revisa la carpeta proyecto para ver todo lo relacionado con él.
+
+## Documentación
+En la carpeta docs encontrarás el syllabus del curso, bibliografía recomendada y documentación adicional para profundizar en los temas.
+
+## Cómo Colaborar
+Si deseas contribuir:
+
+Realiza un fork del repositorio.
+Crea una rama para tus cambios.
+Envía un pull request describiendo tus mejoras.
+Utiliza la sección de issues para reportar errores o sugerir nuevas ideas.
+
+## Requisitos y Herramientas
+Conocimientos Previos: Se espera tener nociones básicas de informática y manejo de herramientas digitales.
+Herramientas: Se recomienda utilizar Visual Studio Code (con la extensión Live Server para visualización en tiempo real) y familiarizarse con Git y GitHub para la colaboración.
+
+## Licencia
+Este proyecto se distribuye bajo la Licencia MIT.
+
+## Contacto
+Para dudas o sugerencias, abre un issue en el repositorio o contacta a iwchocho@gmail.com
+
+¡Bienvenidos al Curso de Inteligencia Artificial! Espero que este repositorio sea una herramienta valiosa para tu aprendizaje y colaboración a lo largo del curso.
+
+Saludos
+W
