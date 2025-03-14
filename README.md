@@ -8,7 +8,7 @@ Bienvenidos al repositorio del **Curso de Inteligencia Artificial**. Este reposi
 - [Cómo Utilizar Este Repositorio](#cómo-utilizar-este-repositorio)
 - [Cronograma del Curso](#cronograma-del-curso)
 - [Materiales de Clase](#materiales-de-clase)
-- [Ejercicios](#ejercicios)
+- [Actividades](#actividades)
 - [Proyectos](#proyectos)
 - [Documentación](#documentación)
 - [Cómo Colaborar](#cómo-colaborar)
@@ -33,8 +33,9 @@ El cronograma está disponible en la carpeta cronograma y se actualiza según el
 ## Materiales de Clase
 Cada clase tiene su propio directorio en la carpeta materiales. Aquí encontrarás notas de clase, ejemplos de código y recursos adicionales que complementan las exposiciones teóricas.
 
-## Ejercicios
-La carpeta ejercicios contiene enunciados y soluciones de ejercicios prácticos que te ayudarán a afianzar los conocimientos que vayas construyendo a lo largo del curso.
+## Actividades
+La carpeta actividades contiene enunciados y soluciones de ejercicios prácticos que te ayudarán a afianzar los conocimientos que vayas construyendo a lo largo del curso. Además, diferentes actividades a realizar durante el año.
+
 
 ## Proyecto
 El curso contiene un proyecto final integrador. Revisa la carpeta proyecto para ver todo lo relacionado con él.
