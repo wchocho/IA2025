@@ -4,7 +4,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 1: Línea de Tiempo de la IA
+## Actividad 1: Línea de Tiempo de la IA
 
 1. **Objetivo**: Comprender los hitos más importantes en la historia de la Inteligencia Artificial.
 2. **Indicaciones**:
@@ -17,7 +17,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 2: El Test de Turing en Debate
+## Actividad 2: El Test de Turing en Debate
 
 1. **Objetivo**: Analizar la relevancia histórica y actual del Test de Turing.
 2. **Indicaciones**:
@@ -31,7 +31,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 3: IA Débil vs. IA Fuerte
+## Actividad 3: IA Débil vs. IA Fuerte
 
 1. **Objetivo**: Conocer las dos corrientes principales que diferencian la IA: la IA débil (o estrecha) y la IA fuerte (o general).
 2. **Indicaciones**:
@@ -43,7 +43,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 4: Sistemas Basados en Conocimiento y Sistemas Expertos
+## Actividad 4: Sistemas Basados en Conocimiento y Sistemas Expertos
 
 1. **Objetivo**: Profundizar en la evolución de los sistemas expertos y su influencia en la industria.
 2. **Indicaciones**:
@@ -55,7 +55,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 5: Redes Neuronales y Deep Learning
+## Actividad 5: Redes Neuronales y Deep Learning
 
 1. **Objetivo**: Entender cómo la IA se benefició de los avances en hardware y nuevas técnicas de aprendizaje profundo.
 2. **Indicaciones**:
@@ -68,7 +68,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 6: IA y Ética
+## Actividad 6: IA y Ética
 
 1. **Objetivo**: Conocer los desafíos éticos y sociales que supone la incorporación de la IA en el día a día.
 2. **Indicaciones**:
@@ -82,7 +82,7 @@ A continuación, se presentan diferentes ejercicios para **investigar**, **compr
 
 ---
 
-## Ejercicio 7: Futuras Tendencias de la IA
+## Actividad 7: Futuras Tendencias de la IA
 
 1. **Objetivo**: Explorar las tendencias más recientes y prometedoras en la IA.
 2. **Indicaciones**:
