@@ -40,7 +40,7 @@ La carpeta ejercicios contiene enunciados y soluciones de ejercicios prácticos 
 El curso contiene un proyecto final integrador. Revisa la carpeta proyecto para ver todo lo relacionado con él.
 
 ## Documentación
-En la carpeta docs encontrarás el syllabus del curso, bibliografía recomendada y documentación adicional para profundizar en los temas.
+En la carpeta docs encontrarás bibliografía recomendada y documentación adicional para profundizar en los temas.
 
 ## Cómo Colaborar
 Si deseas contribuir:
